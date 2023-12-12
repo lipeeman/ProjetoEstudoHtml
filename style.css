@@ -79,7 +79,7 @@ main {
 .hero-conteudo {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
+  gap: 2rem;
 }
 
 .destaque {
