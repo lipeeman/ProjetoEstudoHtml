@@ -79,7 +79,7 @@ main {
 .hero-conteudo {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
+  gap: 3rem;
 }
 
 .destaque {
@@ -126,10 +126,20 @@ hr {
   transform: translate(0, '-50%');
 }
 
-button{
+button {
   border: none;
   padding: 1rem;
   border-radius: 0.5rem;
   background: #a45a49;
+}
+
+.receitas {
+  display: flex;
+  flex-direction: column;
+
+  max-width: 1120px;
+  padding: 3rem 2rem;
+  margin: auto;
+  
 
 }
